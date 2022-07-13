@@ -1,7 +1,8 @@
 # Nuxt 3 - Shopify Intergration
 
 You'll need an account and store in Shopify.
-Create a developer app and get the storefront domain and Token which u'll put in the env file.
+
+Then create a developer app and get the storefront domain and Token which u'll put in the env file.
 
 ## Setup
 
