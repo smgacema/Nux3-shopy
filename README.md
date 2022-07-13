@@ -1,10 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 - Shopify Intergration
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+You'll need an account and store in Shopify.
+Create a developer app and get the storefront domain and Token which u'll put in the env file.
 
 ## Setup
 
-Make sure to install the dependencies:
+Install the dependencies:
 
 ```bash
 # yarn
@@ -13,9 +14,6 @@ yarn install
 # npm
 npm install
 
-# pnpm
-pnpm install --shamefully-hoist
-```
 
 ## Development Server
 
@@ -39,4 +37,3 @@ Locally preview production build:
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
